@@ -22,8 +22,19 @@ I'm a developer and security enthusiast with a passion for building (and occasio
 
 ### 📊 GitHub Stats
 
-![GrumpyGreyCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrumpyGreyCat&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrumpyGreyCat&layout=compact&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GrumpyGreyCat&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="GrumpyGreyCat's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrumpyGreyCat&layout=compact&theme=dracula&hide_border=false&border_radius=10" alt="Top Languages" />
+  
+  <img src="https://streak-stats.demolab.com/?user=GrumpyGreyCat&theme=dracula&border_radius=10" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GrumpyGreyCat&theme=dracula&no-frame=false&margin-w=15" alt="GitHub Trophies" />
+</p>
 
 ---
 
